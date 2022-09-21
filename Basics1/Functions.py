@@ -32,13 +32,4 @@ def my_function3(child3, child2, child1):
   print("The youngest child is " + child3)
 
 my_function3(child1 = "Emil", child2 = "Tobias", child3 = "Linus")
-
-# my own program 
-
-def my_function4(kid1,kid2,kid3):
-  kid1 = input ("Enter the name of the first kid")
-  kid2 = input ("Enter the name of the second kid")
-  kid3 = input ("Enter the name of the third kid")
-  print(f"the youngest one is {kid3}")
-
-my_function4()  
+ 
