@@ -8,6 +8,7 @@ def coins(x):
     while constant > 0:
         if x in allowed_coins:
             constant -= x
+            
 
 
 main()              
